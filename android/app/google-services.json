@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597907003188",
+    "project_id": "w4-25-rapeephat",
+    "storage_bucket": "w4-25-rapeephat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597907003188:android:1dba7414eb39728fa4f761",
+        "android_client_info": {
+          "package_name": "com.example.w4_25_rapeephat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlngVHcbAfWwHiq-L2-CHBHqQcxUVed0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
